@@ -1,6 +1,6 @@
 
 ```
-rails new test_app_0
+rails new alpha-blog
 
 rails s
 
