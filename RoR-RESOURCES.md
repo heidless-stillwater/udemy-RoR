@@ -8,7 +8,7 @@
 - ### [upCase - trails](https://thoughtbot.com/upcase/practice)
 - ### [Learn Ruby on Rails Best Practices With One Exercise](https://dev.to/hexdevs/learn-ruby-on-rails-best-practices-with-one-exercise-4ed2)
 
-
+## [SQL Intro](https://www.w3schools.com/sql/)
 ## [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
 
 
