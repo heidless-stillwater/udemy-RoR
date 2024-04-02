@@ -1,12 +1,21 @@
 
 # resources
 
-## [Ruby : Exercises](https://exercism.org/tracks/ruby)
-## RubyOnRails : Exercises
-- ### [The Best Resources for Learning Ruby on Rails](https://www.fullstackacademy.com/blog/learn-ruby-on-rails-for-free-with-these-6-websites)
+## Ruby on Rails
 
-- ### [upCase - trails](https://thoughtbot.com/upcase/practice)
-- ### [Learn Ruby on Rails Best Practices With One Exercise](https://dev.to/hexdevs/learn-ruby-on-rails-best-practices-with-one-exercise-4ed2)
+### [Active Record Validations](https://guides.rubyonrails.org/active_record_validations.html)
+
+### [Debugging Rails Applications](https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem)
+
+---
+
+### [Ruby : Exercises](https://exercism.org/tracks/ruby)
+
+### RubyOnRails : Exercises
+- #### [The Best Resources for Learning Ruby on Rails](https://www.fullstackacademy.com/blog/learn-ruby-on-rails-for-free-with-these-6-websites)
+
+- #### [upCase - trails](https://thoughtbot.com/upcase/practice)
+- #### [Learn Ruby on Rails Best Practices With One Exercise](https://dev.to/hexdevs/learn-ruby-on-rails-best-practices-with-one-exercise-4ed2)
 
 ## [SQL Intro](https://www.w3schools.com/sql/)
 ## [Free Programming Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
