@@ -1,11 +1,19 @@
 
 # resources
 
-## Ruby on Rails
+## Ruby on Rails Guides
 
-### [Active Record Validations](https://guides.rubyonrails.org/active_record_validations.html)
+- ### [Active Record Validations](https://guides.rubyonrails.org/active_record_validations.html)
 
-### [Debugging Rails Applications](https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem)
+- ### [Action View Form Helpers](https://guides.rubyonrails.org/form_helpers.html)
+
+- ### [Debugging Rails Applications](https://guides.rubyonrails.org/debugging_rails_applications.html#debugging-with-the-debug-gem)
+
+- ### [Layouts and Rendering in Rails](https://guides.rubyonrails.org/v3.0.3/layouts_and_rendering.html)
+
+- ### [ruby & rails compatiability table](https://www.fastruby.io/blog/ruby/rails/versions/compatibility-table.html)
+
+- ### [How to uninstall a specific version of Rails from your development machine](https://www.aloucaslabs.com/miniposts/how-to-uninstall-a-specific-version-of-rails-from-your-development-machine)
 
 ---
 
